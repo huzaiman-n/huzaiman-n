@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=huzaiman-n" alt="huzaiman-n" /></a> </p>
 
-- 🔭 I’m currently working on **Clan Capital Layouts**
+- 🔭 I’m currently working on ** Clash of Clans — Clan Leader**
 
 - 🌱 I’m currently learning **Cloud Computing and Application**
 
